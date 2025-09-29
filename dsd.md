@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>practice</title>
+    <title>shop</title>
     <link rel="stylesheet" href="../style/styles.css">
 </head>
 <body>
@@ -19,26 +19,24 @@
             </ul>
         </div>
         <div class="content">
-            <div class="practice-section">
-                <div class="practice-info">
-                    <h1 class="practice-title">Practice 1</h1>
-                    <h5 class="practice-title-middle">a</h5>
-                    <h6 class="practice-text-date">1.01.01</h6>
-                    <p class="practice-text">1</p>
+            <h2 class="section-title">Наши товары</h2>
+            <div class="goods-content">
+                <div class="goods-card">
+                    <img class="goods-photo" src="../images/goods1.jpg" alt="1" width="250" height="250">
+                    <p class="goods-title">Watergun</p>
+                    <p class="goods-salle">3499$</p>
                 </div>
 
-                <div class="practice-info">
-                    <h1 class="practice-title">Practice 2</h1>
-                    <h5 class="practice-title-middle">b</h5>
-                    <h6 class="practice-text-date">2.02.02</h6>
-                    <p class="practice-text">2</p>
+                <div class="goods-card">
+                    <img class="goods-photo" src="../images/goods2.jpg" alt="2" width="250" height="250">
+                    <p class="goods-title">Golem</p>
+                    <p class="goods-salle">8</p>
                 </div>
 
-                <div class="practice-info">
-                    <h1 class="practice-title">Practice 3</h1>
-                    <h5 class="practice-title-middle">c</h5>
-                    <h6 class="practice-text-date">3.03.03</h6>
-                    <p class="practice-text">3</p>
+                <div class="goods-card">
+                    <img class="goods-photo" src="../images/goods3.jpg" alt="3" width="250" height="250">
+                    <p class="goods-title">Sold out</p>
+                    <p class="goods-salle">priceless</p>
                 </div>
             </div>
         </div>
